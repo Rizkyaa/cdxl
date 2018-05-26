@@ -23,7 +23,7 @@ $ git clone https://github.com/Rizkyaa/cdxl
 ## Usage
 
 ```sh
-$ cd xl-py
+$ cd cdxl
 $ python app.py
 ```
 
